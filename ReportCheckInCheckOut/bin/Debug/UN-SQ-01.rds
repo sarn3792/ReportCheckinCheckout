@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="UN-SQ-01">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=UN-SQ-01;Initial Catalog=CRMUn_MSCRM</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>39f930b2-e42a-4371-b10c-565b72480a16</DataSourceID>
+</RptDataSource>
