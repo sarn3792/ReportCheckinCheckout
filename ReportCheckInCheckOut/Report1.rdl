@@ -70,13 +70,13 @@ ORDER BY Cliente</CommandText>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>1.39167in</Width>
+                  <Width>2.19556in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.53333in</Width>
+                  <Width>3.33722in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.30833in</Width>
+                  <Width>2.11222in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -160,7 +160,7 @@ ORDER BY Cliente</CommandText>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Tiempo invertido</Value>
+                                  <Value>Tiempo invertido (HH:MM)</Value>
                                   <Style>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
@@ -304,7 +304,7 @@ ORDER BY Cliente</CommandText>
             <Top>1.13833in</Top>
             <Left>0.455in</Left>
             <Height>0.5in</Height>
-            <Width>5.23333in</Width>
+            <Width>7.645in</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -329,8 +329,8 @@ ORDER BY Cliente</CommandText>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox14</rd:DefaultName>
-            <Top>0.02778in</Top>
-            <Left>5.75556in</Left>
+            <Top>0.05556in</Top>
+            <Left>7.49723in</Left>
             <Height>0.33333in</Height>
             <Width>2.55555in</Width>
             <ZIndex>1</ZIndex>
@@ -348,16 +348,16 @@ ORDER BY Cliente</CommandText>
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>1.39167in</Width>
+                  <Width>2.07292in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>2.53333in</Width>
+                  <Width>3.21458in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.33333in</Width>
+                  <Width>2.01458in</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>1.30833in</Width>
+                  <Width>1.98958in</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -472,9 +472,15 @@ ORDER BY Cliente</CommandText>
                             <Paragraph>
                               <TextRuns>
                                 <TextRun>
-                                  <Value>Tiempo invertido</Value>
+                                  <Value>Tiempo invertido </Value>
                                   <Style>
                                     <FontFamily>Arial</FontFamily>
+                                    <FontWeight>Bold</FontWeight>
+                                  </Style>
+                                </TextRun>
+                                <TextRun>
+                                  <Value>(HH:MM)</Value>
+                                  <Style>
                                     <FontWeight>Bold</FontWeight>
                                   </Style>
                                 </TextRun>
@@ -648,9 +654,9 @@ ORDER BY Cliente</CommandText>
             </TablixRowHierarchy>
             <DataSetName>ReportByEngineer</DataSetName>
             <Top>1.13833in</Top>
-            <Left>6.73611in</Left>
+            <Left>8.63611in</Left>
             <Height>0.5in</Height>
-            <Width>6.56666in</Width>
+            <Width>9.29166in</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -677,7 +683,7 @@ ORDER BY Cliente</CommandText>
             </Paragraphs>
             <rd:DefaultName>Textbox23</rd:DefaultName>
             <Top>0.71055in</Top>
-            <Left>2.53in</Left>
+            <Left>3.88in</Left>
             <Height>0.31667in</Height>
             <Width>1.3in</Width>
             <ZIndex>3</ZIndex>
@@ -698,7 +704,7 @@ ORDER BY Cliente</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Por proyecto e ingeniero</Value>
+                    <Value>Por ingeniero</Value>
                     <Style>
                       <FontSize>14pt</FontSize>
                       <FontWeight>Bold</FontWeight>
@@ -710,7 +716,7 @@ ORDER BY Cliente</CommandText>
             </Paragraphs>
             <rd:DefaultName>Textbox23</rd:DefaultName>
             <Top>0.71055in</Top>
-            <Left>8.93611in</Left>
+            <Left>12.07777in</Left>
             <Height>0.31667in</Height>
             <Width>2.38333in</Width>
             <ZIndex>4</ZIndex>
@@ -728,7 +734,7 @@ ORDER BY Cliente</CommandText>
         <Height>3.16667in</Height>
         <Style />
       </Body>
-      <Width>14.25277in</Width>
+      <Width>17.92777in</Width>
       <Page>
         <PageHeader>
           <Height>1.00278in</Height>
@@ -739,7 +745,7 @@ ORDER BY Cliente</CommandText>
               <Source>Embedded</Source>
               <Value>UN</Value>
               <Sizing>FitProportional</Sizing>
-              <Left>15.61395cm</Left>
+              <Left>19.74145cm</Left>
               <Height>0.59722in</Height>
               <Width>1.72222in</Width>
               <Style>
